@@ -1,0 +1,8 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="223px" height="53px">
+  <path fill-rule="evenodd"  stroke="rgb(208, 208, 208)" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+    d="M20.999,1.0 L220.999,1.0 L200.999,50.999 L0.999,50.999 L20.999,1.0 Z"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#6b6b6b" font-size="18px"font-family="MuseoSansCyrl">ДЛЯ ТРИАТЛОНА</text>
+</svg>
