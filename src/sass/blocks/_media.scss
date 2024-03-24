@@ -317,4 +317,11 @@
       margin-bottom: 28px;
     }
   }
+  .modal {
+    width: 320px;
+    &__close {
+      top: 20px;
+      right: 20px;
+    }
+  }
   }
