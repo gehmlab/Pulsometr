@@ -559,6 +559,11 @@
   .reviews__container {
     padding: 50px 0 50px 0;
   }
+  .footer {
+    &__info {
+      height: 230px;
+    }
+  }
 }
 @media (max-width: 991px) {
   .promo__icons {

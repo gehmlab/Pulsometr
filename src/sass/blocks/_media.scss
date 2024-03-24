@@ -73,6 +73,12 @@
       }
     }
   }
+  .footer {
+    &__info {
+      height: 230px;
+      padding: 40px 68px 40px 68px;
+    }
+  }
 }
 
 
@@ -295,5 +301,20 @@
       margin-top: 20px;
     }
   }
-  
+  .footer {
+    &__info {
+      height: 200px;
+      width: 320px;
+      padding: 28px 8px 8px 8px;
+    }
+    &__addr {
+      margin-bottom: 15px;
+      font-size: 18px;
+      line-height: 18px;
+    }
+    &__phone {
+      font-size: 18px;
+      margin-bottom: 28px;
+    }
+  }
   }
